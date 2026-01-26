@@ -4,6 +4,10 @@ PowerShell scripts that apply TV-style speed and pitch increase to audio files u
 while preserving the original folder structure.
 
 ---
+## Getting Started
+
+These scripts require Windows with PowerShell and FFmpeg/ffprobe in PATH. Follow the usage examples below to process audio folders.
+
 
 ## Features
 
