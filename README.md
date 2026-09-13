@@ -1,7 +1,7 @@
 # TV Pitch Audio Converter (PowerShell)
 
 PowerShell scripts that apply TV-style speed and pitch increase to audio files using FFmpeg,
-while preserving the original folder structure.
+while preserving the original quality, metadata, album art and folder structure.
 
 ---
 ## Getting Started
